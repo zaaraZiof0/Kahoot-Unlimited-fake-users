@@ -1,4 +1,4 @@
-# Kahoot Bot Army
+# Kahoot Unlimited Fake Users
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#license)
@@ -44,8 +44,8 @@ This repository contains a multi-threaded Python script that uses Selenium to si
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/kahoot-bot-army.git
-   cd kahoot-bot-army
+   git clone https://github.com/zaaraZiof0/Kahoot-Unlimited-fake-users.git
+   cd Kahoot-Unlimited-fake-users
    ```
 
 2. **Create and activate a virtual environment**  
