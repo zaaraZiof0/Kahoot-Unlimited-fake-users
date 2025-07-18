@@ -1,5 +1,7 @@
 # Kahoot Unlimited Fake Users
 
+![WAAN Kahoot](./WAAN%20Kahoot.png)
+
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
